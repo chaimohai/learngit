@@ -12,4 +12,6 @@ nihao shijie：放大发
 
 
 发放
-faf：xs 
+faf：xs
+Create a new branch is quick and simple.
+: 
